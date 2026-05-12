@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rhino Grasshopper Dev"
+  short_description: "Rhino 8 Grasshopper component development."
+  default_prompt: "Use this skill to create, review, build, deploy, or test Rhino 8 Grasshopper components, C# GHA plugins, RhinoCommon code, or Rhino 8 Python 3 script plugins."
